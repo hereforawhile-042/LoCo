@@ -1,12 +1,10 @@
 # *Local Connect(LoCo)*
 A tool that connects artisans, vocational workers and professionals with those who are looking for their specific services within a local community
-# LoCo - Connecting Local Talents to Tasks
-
+# LoCo - Bridging Local Talent with Service Demands
 LoCo is a mobile-first platform built to help skilled individuals (artisans, freelancers, and service providers) connect directly with people who need their services.
 
 ## 🌍 Problem
-
-Finding reliable local talent can be difficult and disorganized. Many skilled workers are offline or rely solely on word-of-mouth. Meanwhile, potential clients are left searching endlessly through WhatsApp statuses or asking for referrals.
+Many skilled workers are unavailable offline or depend solely on personal networks, making them hard to reach. As a result, clients are forced to rely on word-of-mouth referrals. LoCo streamlines this process by offering a centralized platform for local service discovery.
 
 ## 💡 Solution
 
